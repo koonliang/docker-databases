@@ -1,0 +1,1 @@
+docker exec -it openssh-server /keygen.sh
